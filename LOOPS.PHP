@@ -34,6 +34,7 @@ while ($i <= 5) {
     $i++;
 }
 
+
 echo "<hr>";
 
 
@@ -56,6 +57,16 @@ do {
     echo "Value: $j <br>";
     $j++;
 } while ($j <= 5);
+echo "<br>";
+
+
+// table print while loop
+$i = 1;
+while($i <= 10){
+    echo "4 x $i = " . (4 * $i) . "<br>";
+$i++;
+}
+
 
 echo "<hr>";
 
@@ -77,6 +88,17 @@ echo "<b>Example:</b><br>";
 for ($k = 1; $k <= 5; $k++) {
     echo "Count: $k <br>";
 }
+
+// * form print
+for($i = 1; $i<= 10; $i++){
+echo str_repeat("*", $i). "<br>";
+}
+
+// table print
+for ($i = 1; $i <= 10; $i++) {
+    echo "5 x $i = " . (5 * $i) . "<br>";
+}
+
 
 echo "<hr>";
 
