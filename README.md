@@ -9,7 +9,7 @@ easily understand the learning flow and maintain the structure.
 ## 📂 Folder Structure & Topics
 
 ### 🔹 01. PHP Basics
-- [Hello World](01_Basics/hello_world.php)
+- [Hello World](hello_world.php)
 - [Variables & Data Types](01_Basics/variables.php)
 - [Operators](01_Basics/operators.php)
 
