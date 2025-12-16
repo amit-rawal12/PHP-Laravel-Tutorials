@@ -1,66 +1,49 @@
-# PHP Learning Repository 🚀
+# PHP & Laravel Learning Repository 🚀
 
-This repository contains **step-by-step PHP learning examples**.
-All files are organized **topic-wise** so that any developer can
-easily understand the learning flow and maintain the structure.
-
----
-
-## 📂 Folder Structure & Topics
-
-### 🔹 01. PHP Basics
-- [Hello World](1.helloworld.php)
-- [Variables & Data Types](01_Basics/variables.php)
-- [Operators](01_Basics/operators.php)
+This repository contains **structured PHP learning examples**.
+All code is organized topic-wise for easy understanding and maintenance.
 
 ---
 
-### 🔹 02. Conditions & Loops
-- [If Else](02_Conditions_Loops/if_else.php)
-- [Switch Case](02_Conditions_Loops/switch.php)
-- [Loops (for, while)](02_Conditions_Loops/loops.php)
+## 📂 PHP Topics
 
----
+### 🔹 Basics
+- [Hello World](PHP/01_Basics/hello_world.php)
+- [Basic Syntax](PHP/01_Basics/basic.php)
+- [Operators](PHP/01_Basics/operators.php)
+- [Data Type](PHP/01_Basics/data_types.php)
+- [SuperGlobalVariable](PHP/01_Basics/super_global_variable.php)
 
-### 🔹 03. Arrays
-- [Types of Arrays](03_Arrays/types_of_arrays.php)
-- [Array Functions](03_Arrays/array_functions.php)
-- [Array Sorting](03_Arrays/array_sorting.php)
 
----
+### 🔹 Conditions & Loops
+- [Conditions](PHP/02_Conditions_Loops/conditions.php)
+- [Loops](PHP/02_Conditions_Loops/loops.php)
+- [Switch Case](PHP/02_Conditions_Loops/switch.php)
 
-### 🔹 04. Functions
-- [User Defined Functions](04_Functions/user_defined_functions.php)
-- [String Functions](04_Functions/php_string_functions.php)
-- [Math Functions](04_Functions/php_math_functions.php)
+### 🔹 Arrays
+- [Types of Arrays](PHP/03_Arrays/types_of_arrays.php)
+- [Array Functions](PHP/03_Arrays/array_functions.php)
+- [Array Sorting](PHP/03_Arrays/array_sorting.php)
+- [Array BuiltIn](PHP/03_Arrays/array_buitin_function.php)
 
----
 
-### 🔹 05. File Handling
-- [PHP File Handling](05_File_Handling/php_file_handling.php)
+### 🔹 Functions
+- [User Defined Functions](PHP/04_Functions/user_defined_functions.php)
+- [Date Time Functions](PHP/04_Functions/date_time.php)
+- [String & Math Functions](PHP/04_Functions/php_builtin_functions.php)
 
----
+### 🔹 File Handling
+- [File Handling](PHP/05_File_Handling/php_file_handling.php)
 
-### 🔹 06. Form Handling
-- [Form Handling](06_Form_Handling/php_form_handling.php)
-- [Form Validation](06_Form_Handling/validation.php)
+### 🔹 Form Handling
+- [Form Handling](PHP/06_Form_Handling/php_form_handling.php)
+- [Validation](PHP/06_Form_Handling/validation.php)
 
----
-
-### 🔹 07. OOP (Object Oriented PHP)
-- [Class & Object Example](07_OOP/class_object.php)
-
----
-
-## 🧠 How to Maintain This Repository
-
-- Add new topics in **new numbered folders**
-- Follow **snake_case** naming
-- Add files only in the **correct topic folder**
-- Update README.md when a new file is added
+### 🔹 OOP
+- [Class & Object](PHP/07_OOP/class_object.php)
 
 ---
 
 ## 👨‍💻 Author
 **Amit Rawal**  
-Learning PHP & Backend Development step by step
+PHP & Backend Learner
