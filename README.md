@@ -8,7 +8,7 @@ All code is organized topic-wise for easy understanding and maintenance.
 ## 📂 PHP Topics
 
 ### 🔹 Basics
-- [Hello World](PHP/01_Basics/hello_world.php)
+- [Hello World](PHP/01_Basics/helloworld.php)
 - [Basic Syntax](PHP/01_Basics/basic.php)
 - [Operators](PHP/01_Basics/operators.php)
 - [Data Type](PHP/01_Basics/data_types.php)
